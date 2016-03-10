@@ -1,0 +1,12 @@
+D:\work\asp.net\clientapp\clientapp\bin\Debug\clientapp.exe.config
+D:\work\asp.net\clientapp\clientapp\bin\Debug\clientapp.exe
+D:\work\asp.net\clientapp\clientapp\bin\Debug\clientapp.pdb
+D:\work\asp.net\clientapp\clientapp\obj\Debug\clientapp.csprojResolveAssemblyReference.cache
+D:\work\asp.net\clientapp\clientapp\obj\Debug\clientapp.mainForm.resources
+D:\work\asp.net\clientapp\clientapp\obj\Debug\clientapp.Properties.Resources.resources
+D:\work\asp.net\clientapp\clientapp\obj\Debug\clientapp.csproj.GenerateResource.Cache
+D:\work\asp.net\clientapp\clientapp\obj\Debug\clientapp.exe
+D:\work\asp.net\clientapp\clientapp\obj\Debug\clientapp.pdb
+D:\work\asp.net\clientapp\clientapp\bin\Debug\Newtonsoft.Json.dll
+D:\work\asp.net\clientapp\clientapp\bin\Debug\Newtonsoft.Json.xml
+D:\work\asp.net\clientapp\clientapp\obj\Debug\clientapp.editForm.resources
